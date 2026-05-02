@@ -19,8 +19,6 @@ I'm a quantitative methods graduate student at York University, Toronto, Canada.
 
 Below are some brief highlights of my current and previous work on GitHub:
 
-- 🌐 My (in-progress) website [gavinklorfine.com](https://gavinklorfine.com/).
-
 - 📦 Second author of Professor [@friendly](https://github.com/friendly)'s R package [vcdExtra](https://github.com/friendly/vcdExtra)
   + Built the beginnings of a 'tidy' framework for working with categorical data in R
   
@@ -28,3 +26,4 @@ Below are some brief highlights of my current and previous work on GitHub:
 
 - 📚 Coursework for Professor Friendly's graduate-level course in categorical data analysis: [my6136](https://github.com/gklorfine/my6136)
 
+- 🌐 My (in-progress) website [gavinklorfine.com](https://gavinklorfine.com/).
