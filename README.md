@@ -1,3 +1,8 @@
+<p>
+<img align="right" src="GK_logo.png" height="200">
+</p>
+
+
 ### Hi there 👋
 
 <!--
