@@ -31,4 +31,4 @@ Below are some brief highlights of my current and previous work on GitHub:
 
 - 📚 Coursework for Professor Friendly's graduate-level course in categorical data analysis: [my6136](https://github.com/gklorfine/my6136)
 
-- 🌐 My (in-progress) website [gavinklorfine.com](https://gavinklorfine.com/).
+- 🌐 My (in-progress) website [gavinklorfine.com](https://gavinklorfine.com/)
