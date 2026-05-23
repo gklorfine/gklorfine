@@ -27,7 +27,7 @@ Below are some brief highlights of my current and previous work on GitHub:
 - 📦 Second author of Professor [@friendly](https://github.com/friendly)'s R package [vcdExtra](https://github.com/friendly/vcdExtra)
   + Built the beginnings of a 'tidy' framework for working with categorical data in R
 
-- 📖 Reviewing and editing Professor Friendly's in-progress textbook, [*Visualizing Multivariate Data and Models in R*](https://github.com/friendly/vis-MLM-book)
+- 📖 Reviewing and editing Professor Friendly's in-progress textbook [*Visualizing Multivariate Data and Models in R*](https://github.com/friendly/vis-MLM-book)
   
 - 🐍 Co-creating an introductory workshop for data analysis in Python (repository private until completion)
 
