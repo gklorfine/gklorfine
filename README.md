@@ -29,7 +29,7 @@ Below are some brief highlights of my current and previous work on GitHub:
 
 - 📖 Reviewing and editing Professor Friendly's in-progress textbook [*Visualizing Multivariate Data and Models in R*](https://github.com/friendly/vis-MLM-book)
   
-- 🐍 Co-creating an introductory workshop for data analysis in Python (repository private until completion)
+- 🐍 Led the creation of an [introductory workshop for data analysis in Python](https://github.com/gklorfine/Intro-to-Python-Workshop) 
 
 - 📚 Coursework for Professor Friendly's graduate-level course in categorical data analysis: [my6136](https://github.com/gklorfine/my6136)
 
