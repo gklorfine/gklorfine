@@ -35,6 +35,8 @@ Below are some brief highlights of my current and previous work on GitHub:
 
 - 🌐 My website [gavinklorfine.com](https://gavinklorfine.com/)
 
+<!--
+
 ___
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -45,3 +47,5 @@ ___
 [![zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)]()
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+
+-->
