@@ -28,6 +28,8 @@ Below are some brief highlights of my current and previous work on GitHub:
 
 - 📦 Second author of R package [`ggmosaic2`](https://github.com/friendly/ggmosaic2)
 
+- 🚧 Work in progress: my new R package [`ggfourfold`](https://github.com/gklorfine/ggfourfold)
+
 - 📖 Editing Professor Friendly's in-progress textbook [*Visualizing Multivariate Data and Models in R*](https://github.com/friendly/vis-MLM-book)
   
 - 🐍 Led the creation of an [introductory workshop for data analysis in Python](https://github.com/gklorfine/Intro-to-Python-Workshop) 
