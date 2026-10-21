@@ -24,11 +24,11 @@ I'm a quantitative methods graduate student at York University, Toronto, Canada.
 
 Below are some brief highlights of my current and previous work on GitHub:
 
+- 📦 First author and maintainer of [`ggfourfold`](https://github.com/gklorfine/ggfourfold)
+
 - 📦 Second author of Professor [@friendly](https://github.com/friendly)'s R package [`vcdExtra`](https://github.com/friendly/vcdExtra)
 
 - 📦 Second author of R package [`ggmosaic2`](https://github.com/friendly/ggmosaic2)
-
-- 🚧 Work in progress: my new R package [`ggfourfold`](https://github.com/gklorfine/ggfourfold)
 
 - 📖 Editing Professor Friendly's in-progress textbook [*Visualizing Multivariate Data and Models in R*](https://github.com/friendly/vis-MLM-book)
   
